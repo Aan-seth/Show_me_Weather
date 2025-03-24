@@ -1,12 +1,26 @@
-<<<<<<< HEAD
-# Show_me_Weather
-=======
-# React + Vite
+# 🌦️ Simple Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple weather application built using **React.js**, **Tailwind CSS**, and the **OpenWeather API** to fetch and display real-time weather data for any city.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🌍 Search weather by city name
+- 🌡️ Display temperature in Celsius
+- 🌤️ Show weather conditions with icons
+- 🔄 Loading state while fetching data
+- 🚨 Handles errors for invalid city names
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 785fc24 (first commit)
+## 📸 Preview
+![Weather App Preview](https://via.placeholder.com/800x400.png?text=Weather+App+Preview)
+
+## 🛠️ Tech Stack
+- **React.js** – Frontend framework
+- **Tailwind CSS** – Styling
+- **OpenWeather API** – Fetching weather data
+
+## 🏗️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/Aan-seth/Show_me_Weather.git
+cd Show_me_Weather
+
