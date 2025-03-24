@@ -9,8 +9,6 @@ A simple weather application built using **React.js**, **Tailwind CSS**, and the
 - 🔄 Loading state while fetching data
 - 🚨 Handles errors for invalid city names
 
-## 📸 Preview
-![Weather App Preview](https://via.placeholder.com/800x400.png?text=Weather+App+Preview)
 
 ## 🛠️ Tech Stack
 - **React.js** – Frontend framework
